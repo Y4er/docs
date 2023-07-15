@@ -1,6 +1,6 @@
 ---
-title: Maintaining your safety on GitHub
-shortTitle: Maintaining safety
+title: Maintaining your safety on StuartSwitzman/GitHub
+shortTitle: Maintaining safety first 
 intro: 'To build a positive and safe environment for yourself and the community for your project on {% data variables.product.prodname_dotcom %}, you can block and unblock users and report disruptive content.'
 redirect_from:
   - /articles/encouraging-positive-contributions-in-your-organization
